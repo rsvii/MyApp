@@ -15,6 +15,7 @@ export default async function Home() {
           height={38}
           priority
         />
+        <p>Rolly Test</p>
         <div>
           {
             postData.map((pst) => (
